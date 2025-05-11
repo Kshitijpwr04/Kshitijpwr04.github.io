@@ -83,9 +83,6 @@ const CONFIG = {
   experiences: [
     {
       company: 'Baanyan Software Services, Inc.'
-        'Performed in depth study and examined Department of Transportation and Transport Security Administration documents for the networks and equipment utilized in legacy systems and railroad communications.'
-        'Identified potential attack vectors and threat landscapes within the railroad industry, implemented frameworks NIST, ISO enhancing the sectors cybersecurity posture.'
-        'Produced a complete cyber risk assessment report covering important findings, vulnerabilities, and risk mitigation techniques customized to the railroad industry, devised, and implemented detailed disaster recovery plans.',
       position: 'Security Analyst Trainee',
       from: 'November 2024',
       to: 'Present',
