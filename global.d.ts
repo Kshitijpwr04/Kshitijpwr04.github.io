@@ -5,6 +5,14 @@ interface Github {
   username: string;
 }
 
+interface Experience {
+  company?: string;
+  position?: string;
+  from: string;
+  to: string;
+  companyLink?: string;
+}
+
 interface GitHubProjects {
   /**
    * Display GitHub projects?
@@ -213,14 +221,6 @@ interface Resume {
    * Resume file url
    */
   fileUrl?: string;
-}
-
-interface Experience {
-  company?: string;
-  position?: string;
-  from: string;
-  to: string;
-  companyLink?: string;
 }
 
 interface Certification {
