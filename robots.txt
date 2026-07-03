@@ -1,4 +1,4 @@
-User-agent: *
+User-Agent: *
 Disallow: /api
 
-Sitemap: https://mldangelo.com/sitemap.xml
+Sitemap: https://kshitijpwr04.github.io/sitemap.xml
