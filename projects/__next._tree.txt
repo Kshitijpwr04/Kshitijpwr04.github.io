@@ -6,4 +6,4 @@
 :HL["/images/certifications/sc-300.png","image"]
 :HL["/images/certifications/sc-200.png","image"]
 :HL["/images/certifications/az-500.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"GgZAc1E8Yfg_7DhMDI-_N"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"5kGWfFYQyrBm1EHEVkkK0"}
